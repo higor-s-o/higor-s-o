@@ -1,4 +1,4 @@
-### olá eu sou o Higor Oliveira 👋
+### Olá eu sou o Higor Oliveira 👋
 
 - 🔭 Atualmente estou trabalhando como Analista de QA
 - 🌱 Estou estudando HTML, CSS e Javascript
